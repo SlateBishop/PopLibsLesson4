@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">PopLibsLesson4</string>
+    <string name="btn_convert_image_text">Convert image</string>
 </resources>
